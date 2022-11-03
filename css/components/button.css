@@ -1,0 +1,21 @@
+.btn-primary {
+  display: inline-block;
+  background-color: orangered;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.btn-primary:hover {
+  background-color: white;
+  border: 4px solid orangered;
+  color: orangered;
+}
+
+.btn-secondary {
+  border: 1px solid #1EDD88;
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: #1EDD88;
+}

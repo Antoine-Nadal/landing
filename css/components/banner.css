@@ -1,0 +1,13 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 10px;
+}
+
+.banner h1 {
+  color: white;
+  opacity: 0.75;
+}
